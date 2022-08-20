@@ -6,7 +6,7 @@
 >
 >Mafalda
 
-![Lucy y Mafalda en Oviedo](/arte%20y%20mafalda.jpg)
+![Lucy y Mafalda en Oviedo](/mafalda2.png)
 
 Mi nombre es Lucy, soy Desarrolladora web full-stack junior en formación con Factoria F5 en un Bootcamp de 850h.
 
